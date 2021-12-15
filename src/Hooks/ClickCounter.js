@@ -1,4 +1,3 @@
-import react, { useState } from "react";
 import useCounter from "./useCounter";
 
 const ClickCounter = (props) => {
