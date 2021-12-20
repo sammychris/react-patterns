@@ -1,7 +1,7 @@
 import HoverCounter from "./HoverCounter";
 import ClickCounter from "./ClickCounter";
 
-export default () => {
+const index = () => {
   return (
     <div>
       <HoverCounter />
@@ -9,3 +9,5 @@ export default () => {
     </div>
   );
 };
+
+export default index;
