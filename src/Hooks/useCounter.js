@@ -9,14 +9,6 @@ const useCounter = () => {
     setCounter(counter + 1);
   };
 
-  // return class Newcomponent extends React.Component {
-  //   super(props)
-  // }
-
-  // return () => {
-  //   return <Component counter={counter} onCounter={onCounter} />;
-  // };
-
   return { counter, onCounter };
 };
 
