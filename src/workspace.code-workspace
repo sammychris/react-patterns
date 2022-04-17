@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"path": "../../360_Soccer_Connect"
+	},
+	{
+		"path": "../../sammy-portfolio"
+	},
+	{
+		"path": "../../keiko-corp"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "keiko-corp"
+  }
+}
